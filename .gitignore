@@ -1,0 +1,4 @@
+/includes/config.*
+.htaccess
+composer.json
+composer.lock
